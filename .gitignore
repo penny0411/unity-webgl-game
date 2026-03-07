@@ -1,0 +1,30 @@
+# 保留現有忽略
+Library/ 
+Temp/
+Logs/
+Builds/
+UserSettings/
+MemoryCaptures/ 
+Assets/_Recovery/
+
+.vs/
+.plastic/
+obj/
+# 允許 webgl-build 完整上傳
+!webgl-build/
+!webgl-build/Build/
+!webgl-build/TemplateData/
+!webgl-build/index.html
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
